@@ -56,9 +56,6 @@
   <a href="https://github.com/Allanbm100/FIAP--IoTTU--Java-ChallengeProject">
     <img src="https://img.shields.io/badge/IoTTU-Java-red?style=flat-square&logo=java"/>
   </a>
-  <a href="https://github.com/Allanbm100/FIAP--PlayMix--DevOps-ClassProject">
-    <img src="https://img.shields.io/badge/PlayMix-DevOps-purple?style=flat-square&logo=docker"/>
-  </a>
 </p>
 
 > 💡 Descubra mais projetos nos meus [repositórios do GitHub](https://github.com/Allanbm100?tab=repositories)!
