@@ -26,7 +26,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP  
 💻 Apaixonado por programação, aprendizado e entrega de soluções reais  
-🧑‍🤝‍🧑 Líder de equipe, Capitão de Ultimate Frisbee, Vice-Presidente do Grêmio Estudantil  
+🥏 Capitão de Ultimate Frisbee
 🔎 Sempre em busca de novos desafios tecnológicos e oportunidades  
 🌎 São Paulo, Brasil
 
