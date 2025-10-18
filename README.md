@@ -26,7 +26,6 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP  
 💻 Apaixonado por programação, aprendizado e entrega de soluções reais  
-🥏 Capitão de Ultimate Frisbee
 🔎 Sempre em busca de novos desafios tecnológicos e oportunidades  
 🌎 São Paulo, Brasil
 
